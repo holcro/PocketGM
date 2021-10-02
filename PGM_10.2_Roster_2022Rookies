@@ -172960,7 +172960,6 @@
     "forename": "Kayvon",
     "surname": "Thibodeaux",
     "position": "DE",
-    "teamID": "Free Agent",
     "age": 20,
     "draftSeason": 2022,
     "draftNum": 1,
@@ -173012,5 +173011,5 @@
       "Hair3Brown",
       "Beard2Brown"
     ]
-  },
+  }
 ]
